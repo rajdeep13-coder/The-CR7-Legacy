@@ -5,7 +5,7 @@
 ---
 
 ## 🌍 Live Preview  
-🔗 **[Visit TheCR7Legacy](#)** *(link coming soon!!!!)*  
+🔗 **[https://the-cr7-legacy.netlify.app/](#)**  
 
 ---
 
